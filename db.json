@@ -7,11 +7,10 @@
     {
       "id": 1,
       "status": "true"
-    },
-    {
-      "id": "status",
-      "status": false
     }
-  ]
+  ],
+  "chatwidget": {
+    "status": true
+  }
 }
     
